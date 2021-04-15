@@ -404,9 +404,9 @@ img{
 /*dark mode*/
 .dark-mode{
     --color1: #90ccdb;
-    --color2: #fff;
+    --color2: #c9d9dd;
     --colorW: #002b36;
-    --colorhover: #90ccdb;
+    --colorhover: #06667e;
     --colorA: #013441;
     background-color: #002b36;
 }
